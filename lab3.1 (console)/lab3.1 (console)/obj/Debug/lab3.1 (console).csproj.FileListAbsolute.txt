@@ -1,0 +1,13 @@
+E:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\bin\Debug\lab3.1 (console).exe.config
+E:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\bin\Debug\lab3.1 (console).exe
+E:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\bin\Debug\lab3.1 (console).pdb
+E:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).exe
+E:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).pdb
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\bin\Debug\lab3.1 (console).exe.config
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\bin\Debug\lab3.1 (console).exe
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\bin\Debug\lab3.1 (console).pdb
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).csproj.SuggestedBindingRedirects.cache
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).exe
+D:\Учебная практика\Задание 3\lab3.1 (console)\lab3.1 (console)\obj\Debug\lab3.1 (console).pdb
